@@ -65,26 +65,6 @@ module.exports = {
 ## ❤️ ¿Que te parece?
 ***Gracias por usar este código! Puedes dejar tu reseña del handler en nuestro [servidor de soporte](https://discord.gg/4ZrXpYwT3Q).***
 
-#🇪🇸 © [2023] yxsif
-
-Este contenido está disponible públicamente bajo la autoría de yxsif. Si bien puedes usar, modificar y distribuir este contenido libremente, te pedimos que reconozcas a yxsif como el autor original. 
-
-Aunque no es necesario obtener permiso para utilizar este contenido con fines no comerciales, te agradecemos que atribuyas apropiadamente a yxsif y enlaces a la fuente original.
-
-Si deseas utilizar este contenido con fines comerciales o tienes alguna otra consulta relacionada con los derechos de autor, por favor, contacta a: https://discord.gg/4ZrXpYwT3Q
-
-yxsif agradece tu respeto a su trabajo creativo y espera que este contenido sea útil para tus proyectos y necesidades.
-
-#🇺🇸 © [2023] yxsif
-
-This content is publicly available under the authorship of yxsif. While you are free to use, modify and distribute this content, we ask that you acknowledge yxsif as the original author.
-
-Although you do not need to obtain permission to use this content for non-commercial purposes, we appreciate proper attribution to yxsif and links to the original source.
-
-If you wish to use this content for commercial purposes or have any other copyright related queries, please contact: https://discord.gg/4ZrXpYwT3Q
-
-yxsif appreciates your respect for their creative work and hopes that this content is useful for your projects and needs.
-
 <div align="center">
  <a href="https://www.mongodb.com/es/atlas/database" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
  <a href="https://www.nodejs.org" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
