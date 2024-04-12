@@ -22,7 +22,7 @@
 TOKEN = "TOKEN-BOT"
 MONGO_URL = "MONGO-URL"
 
-STATUS = "dsc.gg/thunlighdev"
+STATUS = "dsc.gg/yxsif"
 STATUS_TYPE = "Watching"
 CLIENT_ID = "CLIENT-ID"
 OWNER_IDS = "OWNER-IDS"
